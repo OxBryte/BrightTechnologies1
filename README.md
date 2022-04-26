@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrightTechnologies1 CTO of Mintyplex
-- 👀 I’m interested proficient in HTML, CSS, React, NEAR and Solana Blockchain.
+- 👀 I’m proficient in HTML, CSS, React, NEAR and Solana Blockchain.
 - 🌱 I’m currently learning Rust Language
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - https://twitter.com/OlumideSilas
