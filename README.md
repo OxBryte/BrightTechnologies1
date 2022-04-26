@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BrightTechnologies1
-- 👀 I’m interested in Html, CSS, React, Solana Blockchain
+- 👋 Hi, I’m @BrightTechnologies1 CTO of Mintyplex
+- 👀 I’m interested in HTML, CSS, React, NEAR and Solana Blockchain.
 - 🌱 I’m currently learning Rust Language
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ...
+- 📫 How to reach me - https://twitter.com/OlumideSilas
 
 <!---
 BrightTechnologies1/BrightTechnologies1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
